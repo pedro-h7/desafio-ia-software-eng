@@ -1,0 +1,24 @@
+{
+  "name": "desafio-ia-software-eng",
+  "version": "1.0.0",
+  "description": "[![Node.js CI](https://github.com/pedro-h7/desafio-ia-software-eng/actions/workflows/node.js.yml/badge.svg)](https://github.com/pedro-h7/desafio-ia-software-eng/actions/workflows/node.js.yml)",
+  "main": "pedidos.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-h7/desafio-ia-software-eng.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pedro-h7/desafio-ia-software-eng/issues"
+  },
+  "homepage": "https://github.com/pedro-h7/desafio-ia-software-eng#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
