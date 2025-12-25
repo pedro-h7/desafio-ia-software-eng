@@ -5,3 +5,5 @@ function calcularValorTotal(pedidos) {
         return total + (pedido.valor - pedido.desconto);
     }, 0);
 }
+
+module.exports = { calcularValorTotal };
